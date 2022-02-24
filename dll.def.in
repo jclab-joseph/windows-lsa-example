@@ -1,0 +1,13 @@
+LIBRARY @WINDOWS_LOGON_MONITOR_LIBRARY_NAME@
+
+EXPORTS
+    DllMain
+	LsaApCallPackage
+	LsaApCallPackagePassthrough
+	LsaApCallPackageUntrusted
+	LsaApInitializePackage
+	LsaApLogonTerminated
+	LsaApLogonUserEx2
+	SpInitialize
+	SpInstanceInit
+	SpLsaModeInitialize
