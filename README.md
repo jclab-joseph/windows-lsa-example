@@ -46,3 +46,7 @@ Progress : Change Registry -> Reboot -> Logon
 2022-02-24 19:24:47.816 DEBUG [640] [SpInitialize@8] SpInitialize
 2022-02-24 19:24:47.816 DEBUG [640] [SpGetInfo@19] SpGetInfo
 ```
+
+# Forum
+
+- https://docs.microsoft.com/en-us/answers/questions/747151/can-credential-provider-detect-login-failures.html
